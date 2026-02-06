@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Philip Bonuah
 
-<!--
-**philipbonuah-dev/philipbonuah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Android App Developer  
+📱 Kotlin | Java | Android SDK | Firebase  
+🌍 Ghana
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+- 🛒 Marketplace Android App — Google Sign-In authentication *(in progress)*
+- 🤖 AI Resume Generator — No registration *(in progress)*
+- ⌨️ Custom Android Keyboard App *(in progress)*
+
+---
+
+## 🛠 Tech Stack
+- Kotlin / Java  
+- Android SDK  
+- Firebase (Google Auth, Firestore)  
+- REST APIs  
+- Git & GitHub
+
