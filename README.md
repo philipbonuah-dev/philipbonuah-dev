@@ -1,7 +1,7 @@
 # Hi 👋 I'm Philip Bonuah
 
-🚀 Android App Developer  
-📱 Kotlin | Java | Android SDK | Firebase  
+🚀 Android App Developer  | Web Developer
+📱 Kotlin | Java | Android SDK | Firebase |.html |.xml |.js
 🌍 Ghana
 
 ---
@@ -10,7 +10,7 @@
 - 🛒 Marketplace Android App — Google Sign-In authentication *(in progress)*
 - 🤖 AI Resume Generator — No registration *(in progress)*
 - ⌨️ Custom Android Keyboard App *(in progress)*
-
+- https://campusswift1.netlify.app/
 ---
 
 ## 🛠 Tech Stack
